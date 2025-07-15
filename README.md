@@ -3,6 +3,9 @@
 A fast and reliable US visa slot booking script built for F1, B2, and H1B applicants.  
 Skip the middlemen, skip the scams — **take control into your own hands.**
 
+<img width="1024" height="1024" alt="ChatGPT Image Jul 15, 2025, 05_11_59 AM" src="https://github.com/user-attachments/assets/90de62e6-869f-44bb-b81a-c6582f9a7180" />
+
+
 ---
 
 ## 🚀 Features
