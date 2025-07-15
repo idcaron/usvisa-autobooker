@@ -3,8 +3,7 @@
 A fast and reliable US visa slot booking script built for F1, B2, and H1B applicants.  
 Skip the middlemen, skip the scams — **take control into your own hands.**
 
-<img width="1024" height="1024" alt="ChatGPT Image Jul 15, 2025, 05_11_59 AM" src="https://github.com/user-attachments/assets/90de62e6-869f-44bb-b81a-c6582f9a7180" />
-
+<img width="1024" height="1024" alt="ChatGPT Image Jul 15, 2025, 05_11_59 AM" src="https://github.com/user-attachments/assets/670689a5-fd94-449d-b634-fd5d27dee03b" />
 
 ---
 
@@ -56,10 +55,15 @@ Specifically tested on:
 
 ---
 
-## 💬 Support / Contact
+## 🔐 Access to Script
 
-Need help? DM on Telegram: @visabreeze
+To prevent misuse and abuse, the actual booking script (`autobooker.user.js`) is **not open-source**.
 
----
+If you're interested in using this script, you can:
+
+👉 Request access via Telegram: [@yourhandle](https://t.me/visabreeze)  
+💰 One-time fee applies to support development & updates.
+
+Note: This tool is for personal/educational use only. Do not redistribute.
 
 ## ⭐ Star this repo if you found it useful!
