@@ -1,4 +1,4 @@
-# 🇺🇸 US Visa AutoBooker — Tampermonkey Script 🔥
+# US Visa AutoBooker — Tampermonkey Script 🔥
 
 A fast and reliable US visa slot booking script built for F1, B2, and H1B applicants.  
 Skip the middlemen, skip the scams — **take control into your own hands.**
@@ -61,7 +61,7 @@ To prevent misuse and abuse, the actual booking script (`autobooker.user.js`) is
 
 If you're interested in using this script, you can:
 
-👉 Request access via Telegram: [@yourhandle](https://t.me/visabreeze)  
+👉 Request access via Telegram: [@visabreeze](https://t.me/visabreeze)  
 💰 One-time fee applies to support development & updates.
 
 Note: This tool is for personal/educational use only. Do not redistribute.
